@@ -1,0 +1,16 @@
+﻿  KMWindow.cpp
+d:\project\lab1\lab1\lab1\kmlist.h(33): warning C4240: nonstandard extension used: access to 'KMList::ListItem' now defined to be 'private', previously it was defined to be 'public'
+  d:\project\lab1\lab1\lab1\kmlist.h(18): note: see declaration of 'KMList::ListItem'
+d:\project\lab1\lab1\lab1\kmwindow.cpp(416): warning C4244: 'argument': conversion from 'LPARAM' to 'float', possible loss of data
+d:\project\lab1\lab1\lab1\kmwindow.cpp(417): warning C4244: 'argument': conversion from 'unsigned long' to 'float', possible loss of data
+d:\project\lab1\lab1\lab1\kmwindow.cpp(441): warning C4244: 'argument': conversion from 'LPARAM' to 'float', possible loss of data
+d:\project\lab1\lab1\lab1\kmwindow.cpp(442): warning C4244: 'argument': conversion from 'unsigned long' to 'float', possible loss of data
+  Generating Code...
+  Compiling...
+  main.cpp
+d:\project\lab1\lab1\lab1\kmlist.h(33): warning C4240: nonstandard extension used: access to 'KMList::ListItem' now defined to be 'private', previously it was defined to be 'public'
+  d:\project\lab1\lab1\lab1\kmlist.h(18): note: see declaration of 'KMList::ListItem'
+d:\project\lab1\lab1\lab1\main.cpp(301): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+  Generating Code...
+KMVector3f.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+  lab1.vcxproj -> D:\Project\lab1\lab1\Debug\lab1.exe
